@@ -1,0 +1,12 @@
+E:\Tejas\Engineering\BlockChain-Workshop\todo-app\src\bin\Debug\net6.0\ToDoApp.deps.json
+E:\Tejas\Engineering\BlockChain-Workshop\todo-app\src\bin\Debug\net6.0\ToDoApp.dll
+E:\Tejas\Engineering\BlockChain-Workshop\todo-app\src\bin\Debug\net6.0\ToDoApp.pdb
+E:\Tejas\Engineering\BlockChain-Workshop\todo-app\src\obj\Debug\net6.0\ToDoApp.csproj.AssemblyReference.cache
+E:\Tejas\Engineering\BlockChain-Workshop\todo-app\src\obj\Debug\net6.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tejas\Engineering\BlockChain-Workshop\todo-app\src\obj\Debug\net6.0\ToDoApp.AssemblyInfoInputs.cache
+E:\Tejas\Engineering\BlockChain-Workshop\todo-app\src\obj\Debug\net6.0\ToDoApp.AssemblyInfo.cs
+E:\Tejas\Engineering\BlockChain-Workshop\todo-app\src\obj\Debug\net6.0\ToDoApp.csproj.CoreCompileInputs.cache
+E:\Tejas\Engineering\BlockChain-Workshop\todo-app\src\obj\Debug\net6.0\ToDoApp.dll
+E:\Tejas\Engineering\BlockChain-Workshop\todo-app\src\obj\Debug\net6.0\refint\ToDoApp.dll
+E:\Tejas\Engineering\BlockChain-Workshop\todo-app\src\obj\Debug\net6.0\ToDoApp.pdb
+E:\Tejas\Engineering\BlockChain-Workshop\todo-app\src\obj\Debug\net6.0\ref\ToDoApp.dll
